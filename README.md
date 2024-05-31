@@ -32,3 +32,4 @@ Notificaciones en Slack: Utilizando notificacion/action-slack para enviar actual
 
 Al aprovechar GitHub Actions para CI y configurar un sistema robusto de notificaciones, aseguraremos que los procesos de desarrollo sean eficientes, transparentes y confiables. Esta configuración facilitará la colaboración eficiente y la entrega rápida de software de alta calidad para la avanzada plataforma de comercio electrónico de InnovaRetail Corp.
 
+
